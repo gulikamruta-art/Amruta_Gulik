@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>B.A.E - Breast Cancer ML Project</title>
@@ -153,12 +153,13 @@ Accuracy: <span class="highlight">93-95 %</span>
 <footer>
  Author: Amruta Gulik <br>
     Machine Learning Project | 2026
+    <a href="C:\Users\AMRUTA\Downloads\Copy_of_Amrutagulik_.ipynb">
+  View My Project PDF
+</a>
+
 </footer>
 
 </div>
-<a href="C:\Users\AMRUTA\Downloads\Copy_of_Amrutagulik_.ipynb">
-  View My Project PDF
-</a>
 
 </body>
 </html>
