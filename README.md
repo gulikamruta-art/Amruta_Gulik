@@ -150,7 +150,7 @@ Accuracy: <span class="highlight">93-95 %</span>
     <li>Improve UI/UX</li>
 </ul>
 
-<a href="C:\Users\AMRUTA\Downloads\Copy_of_Amrutagulik_.ipynb">
+<a href=Copy_of_Amrutagulik_.ipynb">
   <button>Download PDF</button>
 </a>
 
